@@ -3,7 +3,7 @@
 This project contains the RTL design, OpenLane physical design flow configuration, and signoff verification reports for a 32-Bit Arithmetic Logic Unit (ALU) implemented on the SkyWater 130nm (sky130A) PDK.
 
 #  Layout (GDSII)
-![ALU32 GDSII Layout](alu32_layout_gdsfinal.png)
+(alu32_layout_gdsfinal.png)
 
 # Project Specifications & Design Flow
  **RTL Module:`alu32.v`
