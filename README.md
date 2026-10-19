@@ -1,7 +1,7 @@
 # 32-bit ALU ASIC Implementation (SkyWater 130nm)
 
 This project contains the RTL design, OpenLane physical design flow configuration, and signoff verification reports for a 32-Bit Arithmetic Logic Unit (ALU) implemented on the SkyWater 130nm (sky130A) PDK.
-
+  
 #  Layout (GDSII)
  (alu32_layout_gdsfinal)
 
